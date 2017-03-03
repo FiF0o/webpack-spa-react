@@ -1,5 +1,5 @@
 # Scaffold project
-Basic scaffolding project for React+d3.
+Basic scaffolding project for React+d3.</br>
 
 ## How do I use this
 
@@ -8,7 +8,7 @@ Basic scaffolding project for React+d3.
 
 ### Local development
  - `npm run build`
- - `npm run start`
+ - `npm run start`, for dev mode - Local webserver will open on port `:3000`
 
 ### Run tests
   - `npm run test`
